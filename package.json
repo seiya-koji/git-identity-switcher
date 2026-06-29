@@ -2,7 +2,7 @@
   "name": "git-identity-switcher",
   "displayName": "Git Identity Switcher",
   "description": "Show the current git user identity in the VS Code status bar",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "seiya-koji",
   "engines": {
     "vscode": "^1.85.0"
