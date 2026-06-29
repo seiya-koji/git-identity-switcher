@@ -27,4 +27,3 @@ describe('activate', () => {
     expect(mockContext.subscriptions.push).toHaveBeenCalled();
   });
 });
-
