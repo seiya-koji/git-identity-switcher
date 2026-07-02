@@ -3,6 +3,7 @@
 [![VS Marketplace Version](https://badgen.net/vs-marketplace/v/seiya-koji.git-identity-indicator?label=version)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.git-identity-indicator)
 [![VS Marketplace Installs](https://badgen.net/vs-marketplace/i/seiya-koji.git-identity-indicator?label=installs)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.git-identity-indicator)
 [![VS Marketplace Rating](https://badgen.net/vs-marketplace/rating/seiya-koji.git-identity-indicator?label=rating)](https://marketplace.visualstudio.com/items?itemName=seiya-koji.git-identity-indicator)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/seiya-koji/git-identity-indicator?label=open%20vsx)](https://open-vsx.org/extension/seiya-koji/git-identity-indicator)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Show the current git user email in the VS Code status bar so you always know which identity will be used for the next commit.
